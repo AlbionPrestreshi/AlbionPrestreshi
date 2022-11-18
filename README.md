@@ -6,8 +6,8 @@ Java Developer
 
 * 🌍  I'm based in Prishtina
 * ✉️  You can contact me at [Albion.pres1@gmail.com](mailto:Albion.pres1@gmail.com)
-* 🧠  I'm learning : Java,HTML,CSS,JavaScript
-* 🤝  I'm open to collaborating on Java Project
+* 🧠  I'm learning : Java, HTML, CSS, JavaScript
+* 🤝  I'm open to collaborating on Java, HTML, CSS, JavaScript Project
 
 ### Skills
 
