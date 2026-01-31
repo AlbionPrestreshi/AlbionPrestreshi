@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Albion Prestreshi
 =========================================================================================================================================
 
-Java Developer
+I' a Developer
 --------------
 
 * 🌍  I'm based in Prishtina
 * ✉️  You can contact me at [Albion.pres1@gmail.com](mailto:Albion.pres1@gmail.com)
-* 🧠  I'm learning : Java, HTML, CSS, JavaScript
-* 🤝  I'm open to collaborating on Java, HTML, CSS, JavaScript Project
-
+* 🧠  I'm learning : AI
+* 🤝  I'm open to collaborating on App and WEB.
 ### Skills
 
 
